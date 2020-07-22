@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/c3bk6r17d4hl78mh?svg=true)](https://ci.appveyor.com/project/VarsPtz/ajs-async-await)
 # Домашнее задание к лекции «Promises, async/await»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
