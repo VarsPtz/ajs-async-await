@@ -41,13 +41,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VarsPtz/ajs-promises.git"
+    "url": "git+https://github.com/VarsPtz/ajs-async-await.git"
   },
   "keywords": [
     "Async"
   ],
   "bugs": {
-    "url": "https://github.com/VarsPtz/ajs-promises/issues"
+    "url": "https://github.com/VarsPtz/ajs-async-await/issues"
   },
-  "homepage": "https://github.com/VarsPtz/ajs-promises#readme"
+  "homepage": "https://github.com/VarsPtz/ajs-async-await#readme"
 }
